@@ -9,4 +9,4 @@ In this section of the curriculum, you will be introduced to ...
 
 ### Credits
 
-Basics of Accessibility was written with ♥️ by [Name](Twitter)
+"Introduction to" was written with ♥️ by [Name](Twitter)
