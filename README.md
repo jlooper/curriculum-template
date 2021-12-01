@@ -62,7 +62,4 @@ In addition, a low-stakes quiz before a class sets the intention of the student 
 
 You can run this documentation offline by using [Docsify](https://docsify.js.org/#/). Fork this repo, [install Docsify](https://docsify.js.org/#/quickstart) on your local machine, and then in the root folder of this repo, type `docsify serve`. The website will be served on port 3000 on your localhost: `localhost:3000`.
 
-<create a track git>
-<a href="https://trackgit.com">
-<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/kkcxjd6o25veljfkpm9k" alt="trackgit-views" />
-</a>
+
